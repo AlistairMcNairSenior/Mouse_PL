@@ -1,6 +1,6 @@
 
 # Script to do all analyses in Simpson et al.
-# Written by AM Senior at the University of Sydney, 2018
+# Written by AM Senior at the University of Sydney, 2024
 # Chunks of Code are broadly split up by Figure and associated analyses, each chunk is independent of the others and can be run on its own
 
 # Files required in the working directory are
